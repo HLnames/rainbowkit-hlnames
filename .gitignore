@@ -109,3 +109,4 @@ dist
 
 # Others
 .DS_Store
+/.pnpm-store
